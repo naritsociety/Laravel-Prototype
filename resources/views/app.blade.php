@@ -4,12 +4,11 @@
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <link href="{{ asset('css/app.css') }}" rel="stylesheet" type="text/css" >
-        <title>Laraval With ReactJS and Material Design</title>
+        <title>Laraval With ReactJS App</title>
        
     </head>
     <body>
-        <div id="root">
-            
+        <div id="app">
         </div>
         <script src="{{ asset('js/app.js')}}"></script>
     </body>

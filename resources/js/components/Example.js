@@ -12,6 +12,6 @@ function Example() {
 
 export default Example;
 
-if (document.getElementById('root')) {
-    ReactDOM.render(<Example />, document.getElementById('root'));
+if (document.getElementById('app')) {
+    ReactDOM.render(<Example />, document.getElementById('app'));
 }
